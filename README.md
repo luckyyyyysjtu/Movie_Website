@@ -3,7 +3,7 @@ This project developed a user-friendly and feature-rich movie review website.
 
 Language: **PHP, SQL**
 
-![](./movie review website/Website.png)
+![](./movie_review_website/Website.png)
 
 ## Functions
 
