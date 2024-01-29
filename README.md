@@ -3,6 +3,8 @@ This project developed a user-friendly and feature-rich movie review website.
 
 Language: **PHP, SQL**
 
+![](./movie review website/Website.png)
+
 ## Functions
 
 - **Dynamic Movie Reviews**
@@ -22,3 +24,4 @@ Keyword Search: Find specific movie reviews with ease by searching with relevant
 Liked and Recommended Reviews: Bookmark your favorite reviews and recommendations for quick access.
 
 Personal Page: View and manage your liked and recommended reviews in your personalized user space.
+
