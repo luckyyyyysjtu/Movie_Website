@@ -1,7 +1,7 @@
 # Movie Website
 This project developed a user-friendly and feature-rich movie review website.
 
-Language: **PHP, SQL**
+Language: **PHP (Web Development), SQL (Data Storage)**
 
 ![](./Website.png)
 
